@@ -8,7 +8,7 @@ var questions=[{
   answer: "gaming"
   },{
   question: "Do i like pets ",
-  answer: "yse"
+  answer: "yes"
   },{
   question: "What do i like more, tea or coffee ",
   answer: "coffee"
